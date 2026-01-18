@@ -7,7 +7,7 @@ Each week, the new project folder is released with:
 - supporting data
 - an `environment.yml` for reproducible setup
 
-## Project index
+## Project index --jd changes
 
 | Week | Project | What you build | Main topics |
 |---|---|---|---|
